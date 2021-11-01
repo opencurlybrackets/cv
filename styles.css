@@ -1,0 +1,33 @@
+body{
+  background-color: #E7E0C9;
+  margin: 0;
+}
+hr{
+  border: none;
+  border-bottom: 10px dotted #C1CFC0;
+  width: 7%;
+}
+h1, h3{
+  color: #6B7AA1
+}
+p, table, ul{
+  color: #11324D;
+}
+
+a{
+  background-color: #C1CFC0;
+  border-color: #11324D;
+  border-width: 2px;
+  border: solid;
+}
+a:hover{
+  background-color: #6B7AA1
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #C1CFC0;
+  color: white;
+  font-size: 30px;
+}
